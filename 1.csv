@@ -1,0 +1,11 @@
+patientName,patientId,organizationId,patchId,uid,time,temperatureRaw,temperatureProcessed,valid,adc
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:16:09.000Z,32.38,32.9,true,49351
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:21:09.000Z,32.31,32.88,true,49344
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:26:09.000Z,32.79,32.85,true,49396
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:31:09.000Z,32.79,32.82,false,16749
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:36:09.000Z,32.61,32.8,true,49377
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:41:09.000Z,26.2,32.77,true,48687
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:46:09.000Z,26.37,32.73,true,48705
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:51:09.000Z,26.06,32.7,true,48672
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T07:56:09.000Z,26.3,32.66,true,48697
+Alessandro,cma3kvuwu00004h6zmzbb8rpo,,cma3neyd100004h6zfj8tj8e3,05CB993F100000,2025-04-30T08:01:09.000Z,30.78,32.62,true,49177
