@@ -1,7 +1,8 @@
-# Temperature estimation 
+# Temperature estimation  
 
 ## 📌 Description
 Temperature Evaluation in many different ways from wearable to nearable to A.I. models
+EXAM
 
 
 
