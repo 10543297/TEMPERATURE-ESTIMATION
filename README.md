@@ -2,7 +2,7 @@
 
 ## 📌 Description
 Temperature Evaluation in many different ways from wearable to nearable to A.I. models
-EXAM
+EXAM(10543297).ipynb IS THE MAIN
 
 
 
